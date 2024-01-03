@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\Project\34_API_Gateway"/>
 			<item value="E:\Project\02-Mini-Project-08-email"/>
 			<item value="E:\Project\slf4jAndLogback-master"/>
 		</list>
