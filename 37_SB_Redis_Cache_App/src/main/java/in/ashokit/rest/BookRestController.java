@@ -23,7 +23,6 @@ public class BookRestController {
 	public BookRestController(RedisTemplate<String, Book> redisTemplate) {
 		this.opsForHash = redisTemplate.opsForHash();
 	}
-
 	@PostMapping("/book")
 	public ResponseEntity<String> addBook(@RequestBody Book book) {
 		opsForHash.put("books", book.getBookId(), book);

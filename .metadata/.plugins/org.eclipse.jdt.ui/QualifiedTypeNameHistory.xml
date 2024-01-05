@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="in.ashokit.controller.AppConstant"/>
-    <fullyQualifiedTypeName name="in.ashokit.constants.AppConstants"/>
     <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
     <fullyQualifiedTypeName name="org.slf4j.Logger"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="in.ashokit.model.Book"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonSerializer"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ser.std.StringSerializer"/>
+    <fullyQualifiedTypeName name="in.ashokit.constants.AppConstants"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.common.serialization.StringSerializer"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.support.serializer.JsonSerializer"/>
+    <fullyQualifiedTypeName name="in.ashokit.model.Order"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.common.serialization.StringDeserializer"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.support.serializer.JsonDeserializer"/>
 </qualifiedTypeNameHistroy>
