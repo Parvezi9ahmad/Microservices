@@ -15,4 +15,6 @@
     <fullyQualifiedTypeName name="in.ashokit.model.Order"/>
     <fullyQualifiedTypeName name="org.apache.kafka.common.serialization.StringDeserializer"/>
     <fullyQualifiedTypeName name="org.springframework.kafka.support.serializer.JsonDeserializer"/>
+    <fullyQualifiedTypeName name="io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker"/>
+    <fullyQualifiedTypeName name="in.ashokit.model.Activity"/>
 </qualifiedTypeNameHistroy>
